@@ -3,7 +3,7 @@ This code was developed BG (Before Git).
 I added unnecessary test.py files, and lacked 
 understanding of proper Git Flow and Version Control.
 
-#Fight!
+## Fight!
 
 Fight is simple PyGame project that I developed in 
 2020 to test my understanding of Object Oriented Programming, after
